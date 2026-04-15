@@ -88,17 +88,22 @@ http://127.0.0.1:8000/
 ---
 
 ## 📂 Project Structure
-
-```Nithya-Kanakam
+```
+Project Structure
 ├── admins/
+├── users/
 ├── assets/
-├── data_sample/
 ├── manage.py
 ├── requirements.txt
 ├── paper/
 │   └── project_paper.pdf
-```
 
+```
+## 📂 Dataset
+
+The dataset is not included in this repository due to size and privacy considerations.
+
+This repository focuses on the project code, application structure, and documentation.
 ---
 
 ## 📄 Documentation
