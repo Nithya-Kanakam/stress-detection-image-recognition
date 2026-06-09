@@ -57,7 +57,7 @@ The goal of this project is to:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stress-detection-image-recognition.git
+git clone https://github.com/Nithya-Kanakam/stress-detection-image-recognition.git
 cd stress-detection-image-recognition
 ````
 
